@@ -1,0 +1,31 @@
+{
+  "name": "snk/magento2-module_tax-updater",
+  "description": "Magento 2 Console Command for Updating Tax Rates",
+  "require": {
+    "magento/magento2-base": "^2.2",
+    "php": "^7.1"
+  },
+  "type": "magento2-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleh Kravets",
+      "email": "oleh.kravets@snk.de",
+      "homepage": "https://www.snk.de",
+      "role": "Technical Support"
+    }
+  ],
+  "minimum-stability": "dev",
+  "keywords": [
+    "magento 2",
+    "snk"
+  ],
+  "autoload": {
+    "files": [
+      "src/registration.php"
+    ],
+    "psr-4": {
+      "Snk\\TaxUpdater\\": "src"
+    }
+  }
+}
