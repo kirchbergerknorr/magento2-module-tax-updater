@@ -10,6 +10,14 @@ The module allows changing tax rates through magento console.
 
 Magento 2.2+, PHP >7.1
 
+## Installation
+
+Just install it with composer in your project directory:
+
+```
+composer require snk/magento2-module_tax-updater
+```
+
 ## Usage
 
 The command can be run as a normal Magento 2 console command with several options:
