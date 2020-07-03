@@ -15,7 +15,7 @@ Magento 2.2+, PHP >7.1
 Just install it with composer in your project directory:
 
 ```
-composer require snk/magento2-module_tax-updater
+composer require snk/magento2-module-tax-updater
 ```
 
 ## Usage
