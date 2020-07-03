@@ -1,6 +1,6 @@
 {
   "name": "snk/magento2-module-tax-updater",
-  "description": "Magento 2 Console Command for Updating Tax Rates",
+  "description": "Magento 2 Console Command For Updating Tax Rates",
   "require": {
     "magento/magento2-base": "^2.2",
     "php": "^7.1"
